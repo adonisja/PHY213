@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-trueval-dev-b7597-authRole",
+      "UnauthRoleArn": "arn:aws:iam::586794453404:role/amplify-trueval-dev-b7597-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::586794453404:role/amplify-trueval-dev-b7597-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-trueval-dev-b7597-deployment",
+      "UnauthRoleName": "amplify-trueval-dev-b7597-unauthRole",
+      "StackName": "amplify-trueval-dev-b7597",
+      "StackId": "arn:aws:cloudformation:us-east-1:586794453404:stack/amplify-trueval-dev-b7597/65ab9cf0-94c1-11f0-b261-120c7e3e32e1",
+      "AmplifyAppId": "d1nk4m2hvsufhh"
+    }
+  }
+}
