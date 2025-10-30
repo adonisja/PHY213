@@ -6,7 +6,7 @@
 |----------|----------------|-------------|---------------------|
 | Band 1 | 1st Significant Digit (D₁) | Represents the first digit of the resistance value | D₁ × 10 |
 | Band 2 | 2nd Significant Digit (D₂) | Represents the second digit of the resistance value | D₂ × 1 |
-| Band 3 | Multiplier (M) | The power of ten by which the two digits (D₁, D₂) are multiplied. It determines the magnitude (in ohms) | × 10^{M} |
+| Band 3 | Multiplier (M) | The power of ten by which the two digits (D₁, D₂) are multiplied. It determines the magnitude (in ohms) | $× 10^{M}$ |
 | Band 4 | Tolerance (T) | Indicates the percentage deviation (accuracy) of the actual resistance from the marked value | ± T% |
 
 ## Color Code Reference Table
@@ -58,10 +58,10 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 | Gas constant | R | $8.314\ J·mol^{-1}·K^{-1}$ |
 | Elementary charge | e | $1.602 \times 10^{-19}\ C$ |
 | Gravitational constant | G | $6.674 \times 10^{-11}\ N·m^{2}·kg^{-2}$ |
-| Avogadro's number | N_A | $6.022 \times 10^{23}\ mol^{-1}$ |
+| Avogadro's number | Nₐ | $6.022 \times 10^{23}\ mol^{-1}$ |
 | Planck constant | h | $6.626 \times 10^{-34}\ J·s$ |
 | Speed of light | c | $2.998 \times 10^{8}\ m·s^{-1}$ |
-| Electron mass | m_e | $9.109 \times 10^{-31}$ kg |
+| Electron mass | mₑ | $9.109 \times 10^{-31}$ kg |
 | Permittivity of free space | ε₀ | $8.854 \times 10^{-12}\ C^{2}·N^{-1}·m^{-2}$ |
 | Permeability of free space | μ₀ | $4\pi \times 10^{-7}\ T·m·A^{-1}$ |
 
