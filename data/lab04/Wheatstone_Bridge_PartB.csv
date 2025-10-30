@@ -1,0 +1,7 @@
+unknown_resistor,x_ohms,percent_error,color_coded_tolerance_%,within_tolerance_Yes_or_No
+A,2700,,10,
+B,1000,,10,
+C,220,,10,
+D,100,,10,
+E,22,,10,
+F,12,,10,
