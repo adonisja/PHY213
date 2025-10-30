@@ -119,3 +119,14 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 | Formula | Description | Expression |
 |---------|-------------|------------|
 | Faraday's Law | Induced EMF from changing magnetic flux | $\mathcal{E} = -\frac{d\Phi_B}{dt}$, where $\Phi_B = BA \cos\theta$ |
+
+## Temperature Conversions
+
+| Conversion | Description | Expression |
+|------------|-------------|------------|
+| Celsius to Kelvin | Convert °C to K | $T_K = T_C + 273.15$ |
+| Kelvin to Celsius | Convert K to °C | $T_C = T_K - 273.15$ |
+| Celsius to Fahrenheit | Convert °C to °F | $T_F = \frac{9}{5}T_C + 32$ |
+| Fahrenheit to Celsius | Convert °F to °C | $T_C = \frac{5}{9}(T_F - 32)$ |
+| Fahrenheit to Kelvin | Convert °F to K | $T_K = \frac{5}{9}(T_F - 32) + 273.15$ |
+| Kelvin to Fahrenheit | Convert K to °F | $T_F = \frac{9}{5}(T_K - 273.15) + 32$ |
