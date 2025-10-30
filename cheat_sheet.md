@@ -13,12 +13,12 @@
 
 | Color | Digit (Bands 1 & 2) | Multiplier (Band 3) | Tolerance (Band 4) |
 |--------|---------------------|---------------------|-------------------|
-| Black | 0 | × 10^{0} (× 1) | — |
-| Brown | 1 | × 10^{1} (× 10) | ± 1% |
-| Red | 2 | × 10^{2} (× 100) | ± 2% |
-| Orange | 3 | × 10^{3} (× 1k) | — |
-| Yellow | 4 | × 10^{4} (× 10k) | — |
-| Green | 5 | × 10^{5} (× 100k) | ± 0.5% |
+| Black | 0 | $× 10^{0} (× 1)$ | — |
+| Brown | 1 | $× 10^{1} (× 10)$ | ± 1% |
+| Red | 2 | $× 10^{2} (× 100)$ | ± 2% |
+| Orange | 3 | $× 10^{3} (× 1k)$ | — |
+| Yellow | 4 | $× 10^{4} (× 10k)$ | — |
+| Green | 5 | $× 10^{5} (× 100k) | ± 0.5% |
 | Blue | 6 | × 10^{6} (× 1M) | ± 0.25% |
 | Violet | 7 | × 10^{7} (× 10M) | ± 0.1% |
 | Grey | 8 | × 10^{8} (× 100M) | ± 0.05% |
@@ -84,6 +84,25 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 ---
 
 # 📐 Commonly Used Physics Formulas
+
+## Mechanics
+
+| Formula | Description | Expression |
+|---------|-------------|------------|
+| Momentum | Linear momentum | $p = mv$ |
+| Kinetic Energy | Energy due to motion | $KE = \frac{1}{2}mv^{2}$ |
+| Potential Energy (Gravitational) | Energy due to height | $PE = mgh$ |
+| Work-Energy Theorem | Work done equals change in KE | $W = \Delta KE = \frac{1}{2}m(v_f^{2} - v_i^{2})$ |
+| Impulse | Change in momentum | $J = \Delta p = F\Delta t$ |
+| Angular Momentum | Rotational momentum | $L = I\omega$ |
+| Moment of Inertia (Point Mass) | Rotational inertia | $I = mr^{2}$ |
+| Moment of Inertia (Rod, center) | Thin rod rotating about center | $I = \frac{1}{12}mL^{2}$ |
+| Moment of Inertia (Rod, end) | Thin rod rotating about end | $I = \frac{1}{3}mL^{2}$ |
+| Moment of Inertia (Disk) | Solid disk/cylinder about center | $I = \frac{1}{2}mr^{2}$ |
+| Moment of Inertia (Sphere) | Solid sphere about center | $I = \frac{2}{5}mr^{2}$ |
+| Rotational Kinetic Energy | Energy due to rotation | $KE_{rot} = \frac{1}{2}I\omega^{2}$ |
+| Torque | Rotational force | $\tau = r \times F = rF\sin\theta$ |
+| Power | Rate of energy transfer | $P = \frac{W}{t} = Fv$ |
 
 ## Electricity & Circuits
 
