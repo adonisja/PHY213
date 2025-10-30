@@ -54,11 +54,11 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 
 | Constant | Symbol | Value (SI Units) |
 |----------|--------|------------------|
-| Boltzmann constant | k | $1.3807 \times 10^{-23}$ J·K^{-1} |
-| Gas constant | R | $8.314$ J·mol^{-1}·K^{-1} |
+| Boltzmann constant | k | $1.3807 \times 10^{-23}$ J·$K^{-1}$ |
+| Gas constant | R | $8.314$ J·$mol^{-1}·K^{-1}$ |
 | Elementary charge | e | $1.602 \times 10^{-19}$ C |
-| Gravitational constant | G | $6.674 \times 10^{-11}$ N·m^{2}·kg^{-2} |
-| Avogadro's number | N_A | $6.022 \times 10^{23}$ mol^{-1} |
+| Gravitational constant | G | $6.674 \times 10^{-11}$ N·$m^{2}·kg^{-2}$ |
+| Avogadro's number | N_A | $6.022 \times 10^{23}$ $mol^{-1}$ |
 | Planck constant | h | $6.626 \times 10^{-34}$ J·s |
 | Speed of light | c | $2.998 \times 10^{8}$ m·s^{-1} |
 | Electron mass | m_e | $9.109 \times 10^{-31}$ kg |
