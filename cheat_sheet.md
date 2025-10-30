@@ -54,7 +54,7 @@ Calculation: R = (27) × 10³ = **27,000 Ω = 27 kΩ ± 5%**
 
 | Constant | Symbol | Value (SI Units) |
 |----------|--------|------------------|
-| Boltzmann constant | k | $1.3807 × 10⁻²³ JK⁻¹$ |
+| Boltzmann constant | k | $1.3807 × 10^{-23} JK^{-1}$ |
 | Gas constant | R | $8.314 J mol⁻¹ K⁻¹$ |
 | Elementary charge | e | $1.602 × 10⁻¹⁹ C$ |
 | Gravitational constant | G | $6.674 × 10⁻¹¹ N·m²·kg⁻²$ |
