@@ -70,8 +70,8 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 
 # 🧪 Element Properties (Appendix D & Tables 23-1, 23-2)
 
-| Element | Z | Atomic Mass (g/mol) | Density (g·cm^{-3}) | Melting (°C) | Boiling (°C) | Specific Heat $(J·g^{-1}·°C^{-1})$ |
-|:---|:---|:---|:---|:---|:---|:---|
+| Element | Z | Atomic Mass (g/mol) | Density $(g·cm^{-3})$ | Melting (°C) | Boiling (°C) | Specific Heat $(J·g^{-1}·°C^{-1})$ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Hydrogen | 1 | 1.008 | 0.0000837 | −259.3 | −252.9 | 14.3 |
 | Helium | 2 | 4.0026 | 0.000166 | −272.2 | −268.9 | 5.19 |
 | Carbon | 6 | 12.011 | 2.25 | 3550 | — | 0.709 |
