@@ -54,7 +54,6 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 
 | Constant | Symbol | Value (SI Units) |
 | :--- | :--- | :--- |
-
 | Boltzmann constant | k | $1.3807 \times 10^{-23}\ J·K^{-1}$ |
 | Gas constant | R | $8.314\ J·mol^{-1}·K^{-1}$ |
 | Elementary charge | e | $1.602 \times 10^{-19}\ C$ |
