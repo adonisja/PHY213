@@ -149,3 +149,18 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 | Fahrenheit to Celsius | Convert °F to °C | $T_C = \frac{5}{9}(T_F - 32)$ |
 | Fahrenheit to Kelvin | Convert °F to K | $T_K = \frac{5}{9}(T_F - 32) + 273.15$ |
 | Kelvin to Fahrenheit | Convert K to °F | $T_F = \frac{9}{5}(T_K - 273.15) + 32$ |
+
+
+## Other Formulas
+| Formula | Description | Expression |
+| :--- | :--- | :--- |
+| PV = nRT | Ideal Gas Law | $PV = nRT$ |
+|
+
+P = 1 atm = 101325 Pa
+Gas Constant (R) = 8.314 $J/mol ̇K$
+Elementary Charge (e) = $1.602 \times 10^{-19}$ C
+Charge to mass ratio : $ \frac{q}{m} C ̇kg^{-1}$
+$F_E = k \frac{q_1q_2}{r^2}$
+$F_G = G \frac{m_1m_2}{r^2}$
+$k = \frac{1}{4πΕ_0} = 8.99 × 10^9 Nm^2/C^2$
