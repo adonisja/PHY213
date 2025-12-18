@@ -88,7 +88,7 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 ## Mechanics
 
 | Formula | Description | Expression |
-|---------|-------------|------------|
+| :--- | :--- | :--- |
 | Momentum | Linear momentum | $p = mv$ |
 | Kinetic Energy | Energy due to motion | $KE = \frac{1}{2}mv^{2}$ |
 | Potential Energy (Gravitational) | Energy due to height | $PE = mgh$ |
@@ -107,7 +107,7 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 ## Electricity & Circuits
 
 | Formula | Description | Expression |
-|---------|-------------|------------|
+| :--- | :--- | :--- |
 | Ohm's Law | Relationship between voltage, current, and resistance | $V = I \cdot R$ |
 | Power | Electrical power dissipation | $P = I \cdot V = I^{2} \cdot R = \frac{V^{2}}{R}$ |
 | Parallel Resistors | Equivalent resistance in parallel | $\frac{1}{R_{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \ldots$ |
