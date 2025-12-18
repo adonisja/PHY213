@@ -53,7 +53,8 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 # ⚛️ Fundamental Physical Constants
 
 | Constant | Symbol | Value (SI Units) |
-|----------|--------|------------------|
+| :--- | :--- | :--- |
+
 | Boltzmann constant | k | $1.3807 \times 10^{-23}\ J·K^{-1}$ |
 | Gas constant | R | $8.314\ J·mol^{-1}·K^{-1}$ |
 | Elementary charge | e | $1.602 \times 10^{-19}\ C$ |
@@ -69,8 +70,8 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 
 # 🧪 Element Properties (Appendix D & Tables 23-1, 23-2)
 
-| Element | Z | Atomic Mass (g/mol) | Density (g·cm^{-3}) | Melting (°C) | Boiling (°C) | Specific Heat (J·g^{-1}·°C^{-1}) |
-|---------|---|---------------------|-----------------|--------------|--------------|------------------------|
+| Element | Z | Atomic Mass (g/mol) | Density (g·cm^{-3}) | Melting (°C) | Boiling (°C) | Specific Heat $(J·g^{-1}·°C^{-1})$ |
+|:---|:---|:---|:---|:---|:---|:---|
 | Hydrogen | 1 | 1.008 | 0.0000837 | −259.3 | −252.9 | 14.3 |
 | Helium | 2 | 4.0026 | 0.000166 | −272.2 | −268.9 | 5.19 |
 | Carbon | 6 | 12.011 | 2.25 | 3550 | — | 0.709 |
@@ -118,7 +119,7 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 ## Thermodynamics
 
 | Formula | Description | Expression |
-|---------|-------------|------------|
+| :--- | :--- | :--- |
 | Work | Thermodynamic work | $W = P\Delta V$ |
 | First Law | Energy conservation | $\Delta U = Q - W$ |
 | Ideal Gas Law | Equation of state | $PV = nRT$ |
@@ -129,20 +130,20 @@ Calculation: R = (27) × 10^{3} = **27,000 Ω = 27 kΩ ± 5%**
 ## Kinetic Theory & Statistical Mechanics
 
 | Formula | Description | Expression |
-|---------|-------------|------------|
+| :--- | :--- | :--- |
 | Kinetic Energy per Molecule | Average translational KE | $\frac{3}{2}kT$ |
 | RMS Speed | Root-mean-square molecular speed | $v_{rms} = \sqrt{\frac{3kT}{m}}$ |
 
 ## Electromagnetism
 
 | Formula | Description | Expression |
-|---------|-------------|------------|
+| :--- | :--- | :--- |
 | Faraday's Law | Induced EMF from changing magnetic flux | $\mathcal{E} = -\frac{d\Phi_B}{dt}$, where $\Phi_B = BA \cos\theta$ |
 
 ## Temperature Conversions
 
 | Conversion | Description | Expression |
-|------------|-------------|------------|
+| :--- | :--- | :--- |
 | Celsius to Kelvin | Convert °C to K | $T_K = T_C + 273.15$ |
 | Kelvin to Celsius | Convert K to °C | $T_C = T_K - 273.15$ |
 | Celsius to Fahrenheit | Convert °C to °F | $T_F = \frac{9}{5}T_C + 32$ |
